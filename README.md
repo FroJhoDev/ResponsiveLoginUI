@@ -17,4 +17,4 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 ## Screenshots
-![Login UI](https://raw.githubusercontent.com/jonathan1313/RecipeAppUI/master/screen_shot/01.png)
+![Login UI](https://raw.githubusercontent.com/jonathan1313/ResponsiveLoginUI/master/screen_shot/01.png)
