@@ -1,7 +1,7 @@
 # Responsive Login UI (Flutter Web)
 
 A new Flutter project. Created for the videos on my channel.
-- Video: 
+- Video: https://youtu.be/b7bm5A64Y2k
 
 ## Getting Started
 
